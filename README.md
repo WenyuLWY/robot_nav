@@ -1,6 +1,9 @@
 # overview
 https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release.git
-
+# 标定
+https://github.com/Taeyoung96/GRIL-Calib
+ROS1 https://github.com/hku-mars/LiDAR_IMU_Init
+ROS2 https://github.com/hku-mars/LiDAR_IMU_Init
 # 定位
 # 里程计
 DLO https://github.com/vectr-ucla/direct_lidar_odometry

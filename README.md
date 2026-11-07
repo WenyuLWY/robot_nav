@@ -4,16 +4,26 @@ https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release.git
 # 定位
 # 里程计
 DLO https://github.com/vectr-ucla/direct_lidar_odometry
+
 DLO_ROS2 https://github.com/Cardinal-Space-Mining/direct_lidar_odometry
+
 DLIO https://github.com/vectr-ucla/direct_lidar_inertial_odometry
+
 fastlio https://github.com/hku-mars/FAST_LIO
+
 rko_lio https://github.com/PRBonn/rko_lio
+
 Ultra-Fusion https://github.com/sjtuyinjie/Ultra-Fusion
+
 https://github.com/hku-mars/Voxel-SLAM
 # 后端
 https://github.com/koide3/glim
+
 https://github.com/ganlumomo/VisualInertialOdometry
+
 https://github.com/gisbi-kim/FAST_LIO_SLAM
+
+https://github.com/manankharwar/fusioncore
 
 # 建图 
 

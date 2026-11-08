@@ -20,6 +20,8 @@ ROS2 https://github.com/hku-mars/LiDAR_IMU_Init
 
 # 定位
 # 里程计
+hdl_localization 
+
 DLO https://github.com/vectr-ucla/direct_lidar_odometry
 
 DLO_ROS2 https://github.com/Cardinal-Space-Mining/direct_lidar_odometry
@@ -28,11 +30,17 @@ DLIO https://github.com/vectr-ucla/direct_lidar_inertial_odometry
 
 fastlio https://github.com/hku-mars/FAST_LIO
 
+FAST_LIO_SLAM 加入ScanContext，添加SC-PGO模块
+
+FAST_LIO_LC的作者yanliang-wang 回环检测的优化结果，更新到FAST-LIO2的当前帧位姿中，幷进行ikdtree的重构，进而更新submap
+
+FAST_LIO_SAM：将LIO-SAM的后端GTSAM优化部分移植到FAST-LIO2的代码中
+
 rko_lio https://github.com/PRBonn/rko_lio
 
 Ultra-Fusion https://github.com/sjtuyinjie/Ultra-Fusion
 
-https://github.com/hku-mars/Voxel-SLAM
+Voxel-SLAM https://github.com/hku-mars/Voxel-SLAM
 # 后端
 https://github.com/koide3/glim
 
